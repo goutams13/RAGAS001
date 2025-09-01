@@ -1,0 +1,1 @@
+Implemented RAGAS to evaluate RAG based QA system using InsureLLM (dummy company) as the knowledge base. Leveraging Many LLM Models for LLM calls, the chatbot delivers low-cost, high-accuracy answers to insurance queries. RAGAS metrics assess faithfulness, relevance, precision, recall and correctness, with results stored for improvement.
